@@ -1,4 +1,6 @@
+# Fassinou Bile Master 2 DIT avril 23 
+
 # Liste des dépendances de votre projet
 
-Package1==1.0
-Package2==2.3.1
+pandas
+numpy
